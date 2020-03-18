@@ -86,6 +86,9 @@ button {
   color: white;                               
 }
 
-#symptomsPic{
-
+.symptoms img{
+  width: 175%;
+  height: auto;
+  text-align: center;
 }
+
