@@ -87,8 +87,20 @@ button {
 }
 
 .symptoms img{
-  width: 175%;
+  width: 80%;
   height: auto;
-  text-align: center;
+  margin-left: 10%;
 }
 
+#prevTitle{
+  float: left;
+}
+
+#prevImage{
+  float: left;
+}
+
+.prevention img{
+  width: 500px;
+  height: auto;
+}
